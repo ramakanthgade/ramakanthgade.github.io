@@ -340,7 +340,13 @@ hr {
     background-position: center;}
   .tile.tile-4 .tile-inner {
     background: url('../Tollywood/Ramcharan_4.jpg');
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
+    background-repeat: no-repeat;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center; }
   .tile.tile-8 .tile-inner {
     background: url('../Tollywood/Prabhas_8.jpg'); }
   .tile.tile-16 .tile-inner {
