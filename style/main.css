@@ -54,14 +54,14 @@ h1.title {
   position: relative;
   display: inline-block;
   background: #bbada0;
-  padding: 10px 18px;
+  padding: 8px 10px;
   font-size: 15px;
   height: 25px;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
   color: white;
-  margin-top: 8px;
+  margin-top: 5px;
   text-align: center; }
   .score-container:after, .best-container:after {
     position: absolute;
@@ -579,7 +579,7 @@ hr {
   display: inline-block;
   background: #8f7a66;
   border-radius: 3px;
-  padding: 0 20px;
+  padding: 0 8px;
   text-decoration: none;
   color: #f9f6f2;
   height: 40px;
