@@ -16,7 +16,7 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 60px;
+  font-size: 50px;
   font-weight: bold;
   margin: 0;
   display: block;
@@ -331,7 +331,13 @@ hr {
     color: rgba(0,0,0,0); }
   .tile.tile-2 .tile-inner {
     background: url('../Tollywood/Jr NTR_2.jpg');
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
+    background-repeat: no-repeat;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;}
   .tile.tile-4 .tile-inner {
     background: url('../Tollywood/Ramcharan_4.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
