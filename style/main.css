@@ -348,45 +348,99 @@ hr {
     background-size: cover;
     background-position: center; }
   .tile.tile-8 .tile-inner {
-    background: url('../Tollywood/Prabhas_8.jpg'); }
+    background: url('../Tollywood/Prabhas_8.jpg');
+    background-repeat: no-repeat;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center; }
   .tile.tile-16 .tile-inner {
-    background: url('../Tollywood/Maheshbabu_16.jpg'); }
+    background: url('../Tollywood/Maheshbabu_16.jpg'); 
+    background-repeat: no-repeat;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;}
   .tile.tile-32 .tile-inner {
-    background: url('../Tollywood/Pawankalyan_32.jpg'); }
+    background: url('../Tollywood/Pawankalyan_32.jpg'); 
+    background-repeat: no-repeat;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;}
   .tile.tile-64 .tile-inner {
-    background: url('../Tollywood/Venkatesh_64.jpg'); }
+    background: url('../Tollywood/Venkatesh_64.jpg');
+    background-repeat: no-repeat;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center; }
   .tile.tile-128 .tile-inner {
     background: url('../Tollywood/Nagarjuna_128.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
-    font-size: 45px; }
+    font-size: 45px;
+    background-repeat: no-repeat;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
     background: url('../Tollywood/Balakrishna_256.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    font-size: 45px; }
+    font-size: 45px;
+    background-repeat: no-repeat;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
     background: url('../Tollywood/Chiranjeevi_512.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
-    font-size: 45px; }
+    font-size: 45px;
+    background-repeat: no-repeat;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
     background: url('../Tollywood/ANR_1024.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
-    font-size: 35px; }
+    font-size: 35px;
+    background-repeat: no-repeat;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
     background: url('../Tollywood/NTR_2048.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-    font-size: 35px; }
+    font-size: 35px;
+    background-repeat: no-repeat;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
