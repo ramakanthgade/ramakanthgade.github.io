@@ -2,9 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color: #faf8ef;
-  background-image: url("Tollywood/FadedForBackground150px.png");
-  background-repeat: repeat;
+  background: #faf8ef;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
@@ -18,11 +16,11 @@ body {
   clear: both; }
 
 .heading img {
-  float: left;
+  float: center;
   position: relative;
   top: 9px;
-  width: 50px;
-  height: 50px; }
+  width: 150px;
+  height: 150px; }
 
 h1.title {
   font-size: 50px;
