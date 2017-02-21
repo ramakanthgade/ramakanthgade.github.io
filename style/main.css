@@ -16,7 +16,7 @@ body {
   clear: both; }
 
 .heading img {
-  float: left;
+  Display: block;
   position: relative;
   top: 9px;
   width: 150px;
