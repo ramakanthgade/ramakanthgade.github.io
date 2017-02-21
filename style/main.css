@@ -16,11 +16,10 @@ body {
   clear: both; }
 
 .heading img {
-  float: left;
-  position: relative;
+  float: none;
   top: 9px;
-  width: 50px;
-  height: 50px; }
+  width: 150px;
+  height: 150px; }
 
 h1.title {
   font-size: 50px;
