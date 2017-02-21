@@ -15,11 +15,12 @@ body {
   display: block;
   clear: both; }
 
-img {
-  float: none;
+.heading img {
+  float: left;
+  position: relative;
   top: 9px;
-  width: 150px;
-  height: 150px; }
+  width: 75px;
+  height: 75px; }
 
 h1.title {
   font-size: 50px;
