@@ -16,8 +16,7 @@ body {
   clear: both; }
 
 .heading img {
-  float: center;
-  position: relative;
+  float: left;
   top: 9px;
   width: 150px;
   height: 150px; }
