@@ -15,19 +15,19 @@ body {
   display: block;
   clear: both; }
 
-.heading img {
-  Display: block;
-  position: relative;
-  top: 9px;
-  width: 150px;
-  height: 150px; }
-
 h1.title {
   font-size: 50px;
   font-weight: bold;
   margin: 0;
   display: block;
   float: left; }
+
+.heading img {
+  Display: block;
+  position: relative;
+  top: 9px;
+  width: 150px;
+  height: 150px; }
 
 @-webkit-keyframes move-up {
   0% {
