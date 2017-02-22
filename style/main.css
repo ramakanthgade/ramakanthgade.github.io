@@ -25,10 +25,9 @@ h1.title {
 .heading img {
   Display: block;
   position: relative;
-  margin: 2;
-  top: 9px;
-  width: 150px;
-  height: 150px; }
+  left: 10px;
+  width: 75px;
+  height: 75px; }
 
 @-webkit-keyframes move-up {
   0% {
