@@ -16,7 +16,7 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 75px;
+  font-size: 50px;
   font-weight: bold;
   margin: 0;
   display: block;
@@ -27,8 +27,8 @@ h1.title {
   position: relative;
   left: 10px;
   top: 15px;
-  width: 75px;
-  height: 75px; }
+  width: 60px;
+  height: 60px; }
 
 @-webkit-keyframes move-up {
   0% {
